@@ -146,19 +146,6 @@ The analysis also identified seasonal sales fluctuations, differences in categor
 
 Overall, the project demonstrates how Python-based exploratory data analysis can transform raw retail transaction data into meaningful business insights that support informed decision-making.
 
-### Repository Structure
-```text
-OIBSIP/
-│
-├── Task_1_EDA_Retail_Sales/
-│   ├── README.md
-│   ├── OIBSIP_DataAnalytics_L1_EDA_RetailSales.ipynb
-│   ├── retail_sales_dataset.csv
-│   └── visualisations/
-│
-└── README.md
-```
-
 ### Project Information
 - **Programme:** Oasis Infobyte Internship (OIBSIP)
 - **Domain:** Data Analytics
