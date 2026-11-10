@@ -78,7 +78,7 @@ Performance was practically identical, so the simpler linear model was kept.
 - `train.csv file`
 
 ## How to Run
-1. Download `train.csv` from Kaggl.
+1. Download `train.csv` from Kaggle.
 2. Upload it to your Google Drive (My Drive).
 3. Open the notebook in Google Colab, click Runtime, then Run all, and allow Drive access when prompted.
 
@@ -88,4 +88,4 @@ The biggest thing I learned was how to read coefficients: each one shows how muc
 ## Author
 Hephzibah Ajala
 Data Analytics Intern, Oasis Infobyte
-www.linkedin.com/in/hephzibah-ajala-a21a0135a | [GitHub profile link]
+www.linkedin.com/in/hephzibah-ajala-a21a0135a | https://github.com/Hephzibah-1
